@@ -1,0 +1,14 @@
+{
+  "name": "responsive-website",
+  "version": "1.0.0",
+  "description": "Responsive Website using Sass and Grid",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Monica Vasconcelos <monicavasco@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+ }
